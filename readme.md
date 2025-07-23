@@ -2,6 +2,6 @@
 
 Installation instructions etc.
 
-'''bash
+```bash
 run this code
-'''
+```
